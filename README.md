@@ -1,2 +1,2 @@
 # controle-de-financas
-Sistema desenvolvido acompanhando as aulas do B7Web no YT
+Sistema desenvolvido acompanhando o canal do Dev Sandrin no YT
